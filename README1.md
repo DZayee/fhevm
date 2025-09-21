@@ -15,3 +15,15 @@ npx hardhat run scripts/deploy.js --network localhost
 
 ### ✅ Commit 2: Thêm `.gitignore`
 Tạo file `.gitignore` ở root:  
+
+---
+
+### ✅ Commit 3: Thêm license
+Tạo file `LICENSE` với nội dung MIT:  
+```text
+MIT License
+
+Copyright (c) 2025
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+...
