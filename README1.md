@@ -24,6 +24,9 @@ Tạo file `LICENSE` với nội dung MIT:
 MIT License
 
 Copyright (c) 2025
+// HelloFHEVM: simple demo contract for storing encrypted values
+// Using Zama's FHEVM library
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 ...
