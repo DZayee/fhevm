@@ -10,3 +10,8 @@ Minimal example using [Zama FHEVM](https://github.com/zama-ai/fhevm).
 npm install
 npx hardhat test
 npx hardhat run scripts/deploy.js --network localhost
+
+---
+
+### ✅ Commit 2: Thêm `.gitignore`
+Tạo file `.gitignore` ở root:  
